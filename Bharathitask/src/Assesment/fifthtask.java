@@ -1,3 +1,4 @@
+//Array sum
 package Assesment;
 
 public class fifthtask {

@@ -1,3 +1,4 @@
+//Prime or not
 package Assesment;
 import java.util.*;
 

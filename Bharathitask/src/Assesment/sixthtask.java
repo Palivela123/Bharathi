@@ -1,3 +1,4 @@
+//array compare
 package Assesment;
 import java.util.*;
 
